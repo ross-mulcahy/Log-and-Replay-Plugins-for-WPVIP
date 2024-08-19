@@ -1,4 +1,4 @@
-# Content Logger and Replay
+# Content Logger and Replay for WPVIP
 
 *This plugin has not been comprehensively tested, please use at your own discretion.*
 
